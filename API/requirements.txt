@@ -1,0 +1,17 @@
+pickle
+jupyter
+pandas
+requests
+gensim
+scikit-learn
+numpy
+spacy
+matplotlib
+tqdm
+fastapi>=0.61.1
+pickle
+sklearn
+keras
+tensorflow
+os
+re
