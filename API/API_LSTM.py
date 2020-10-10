@@ -21,7 +21,7 @@ app = FastAPI()
 
 
 def clean_text(text):
-    #text = text.lower()
+    text = text.lower()
     text = re.sub(r"what's","what is", text)
     text = re.sub(r"rt", '',text)
     text = re.sub(r"\'ve","have", text)
