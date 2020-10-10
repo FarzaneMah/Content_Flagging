@@ -1,5 +1,5 @@
 # cDETOX
-cDETOX is based on a consulting project with Ongo Science for flagging inappropriate comments on their platforms. 
+cDETOX is based on a consulting project with Ongo Science for flagging inappropriate comments on their platforms as part of my Insight Data Science fellowship. 
 
 Labelled data from multiple platforms were merged in three classes: zero tolerance (hate, etc.), offensive, and fine. The labelled data is not provided in this repository per the nature of consulting project. 
 
